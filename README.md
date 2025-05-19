@@ -1,5 +1,9 @@
 # Billionaires-Insight
 
+<img width="776" alt="Billionaires Dashboard Viz" src="https://github.com/user-attachments/assets/3dfb2545-6924-48c4-a649-02f078c89015" />
+
+
+
 **🔑 Key Insights – The Billionaires Dashboard 2025**
 
 Overall Summary:
